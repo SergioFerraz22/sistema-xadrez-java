@@ -1,6 +1,8 @@
 package br.com.sistema.xadrez.modelo.xadrez;
 
-public class ExcessaoXadrez extends RuntimeException{
+import br.com.sistema.xadrez.jogotabuleiro.ExcessaoTabuleiro;
+
+public class ExcessaoXadrez extends ExcessaoTabuleiro{
 	
 	private static final long serialVersionUID = 1L;
 	
