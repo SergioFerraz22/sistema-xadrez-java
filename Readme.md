@@ -1,7 +1,6 @@
 # Projeto Desafio: Sistema Xadrez
 
-Este projeto é uma implementação de um sistema de xadrez em Java puro, desenvolvido como parte do desafio proposto durante o curso Java Full Stack, ministrado por Nelio Alves. Neste projeto, apliquei algumas melhorias e meu estilo de código de acordo com a proposta do desafio.
-
+Este projeto é uma implementação de um sistema de xadrez em Java puro, desenvolvido como parte do desafio proposto durante o curso Java Full Stack, ministrado por Nelio Alves. 
 ## Funcionalidades
 
 - Representação visual do tabuleiro de xadrez.
