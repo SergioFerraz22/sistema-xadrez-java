@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author sergio
- *
- */
-module sistemaXadrez {
-}
